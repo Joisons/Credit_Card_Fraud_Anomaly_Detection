@@ -1,4 +1,4 @@
-# 💳 Anomaly Detection in Credit Card Fraud
+# Anomaly Detection in Credit Card Fraud
 
 Detecting fraudulent credit card transactions in a severely imbalanced dataset (0.17% fraud), comparing unsupervised anomaly detection against tuned supervised classifiers.
 
@@ -77,10 +77,7 @@ jupyter
 - Try autoencoder-based anomaly detection as an additional unsupervised baseline.
 - Explore SMOTE and other oversampling techniques as an alternative to undersampling.
 
-## Data Source & License
+## Data Source
 
-Dataset collected and analyzed during a research collaboration of Worldline and the Machine Learning Group (ULB) on big data mining and fraud detection. Distributed via Kaggle for research/educational use.
+Dataset collected and analyzed during a research collaboration of Worldline and the Machine Learning Group (ULB) on big data mining and fraud detection. Distributed via Kaggle for research.
 
-## License
-
-MIT
