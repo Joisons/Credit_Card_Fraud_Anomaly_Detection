@@ -2,7 +2,6 @@
 
 Detecting fraudulent credit card transactions in a severely imbalanced dataset (0.17% fraud), comparing unsupervised anomaly detection against tuned supervised classifiers.
 
-**Suggested repo name:** `credit-card-fraud-anomaly-detection`
 
 ## Overview
 
